@@ -1,2 +1,2 @@
 # Codecademy-Open-Source-
-Creating a test repository for codecademy open source course
+This is my first sample open sourse repository!! Horray!!
